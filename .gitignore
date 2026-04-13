@@ -1,0 +1,3 @@
+# Env files if any.
+.env
+.env.*
